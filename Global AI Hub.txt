@@ -1,0 +1,24 @@
+Global AI Hub
+
+Bir frontend geliştiricisisin. Kodlarını yazarken sitenin tasarımına çok önem veriyorsun.  HTML tabanlı bir web sitesinde sergilemen beklenmektedir. HTML&CSS gerekli ve yeterlidir, Javascript benzeri teknolojileri de opsiyonel olarak kullanabilirsin. Web sitesinin HTML yapısında, semantik
+etiketlerin(header, main, nav, section, article, aside, footer) kullanılman beklenmektedir. Ayrıca düzen ve stil açısından site yapısında Twitter, Bootstrap, CSS sınıflarının en son sürümünü de içermelidir. HTML, CSS ve JavaScript kodlarının çıktılarını ayrı ayrı vermen bekleniyor. Ayrıca sayfa içeriğinde başlıklara dahili bağlantılar içeren bir gezinme menüsü de eklemelisin. 
+
+Websitem bir portfolio, galeri websitesi ve burada film önerileri paylaşmak istiyorum websitemde bulunmasını istediğim etiketler (header, main, nav, section, article, aside, footer) şeklindedir.
+
+ 
+yazdığın kodda siteye ekleyeceğim fotoğrafları nereye ekleyeceğim hiç bilmeyen birine anlatırmış gbi sıfırdan anlat 
+bu koddaki tüm fotoğrafların aynı boyutta ve ortalama bir boyutta olmasını sağlayan kodları ekle 
+sitedeki yazıların daha büyük ve farklı puntoyla göze çarpan şekilde olmasını sağlayan kodları düzenle
+Portfolio ve Galeri yazan kısmının arka plan rengini ve yazı büyüklüğünü artır.
+Portfolio ve Galeri yazan kısmının arka plan rengini  açık krem rengi olarak güncelle 
+bu kodun en başındaki Portfolio ve Galeri kısmının altına Hakkımda kısmı oluştur ve altına bunu yaz  Bu bir GlobalAI projesidir. Aşağıda bilim kurgu dünyasına ait bir diziden yapay zekayla oluşturulmuş görseller bulunmaktadır.  
+bu koda hakkımda kısmının görünümünü portfolia ve galeri kısmındaki görünme aynı yap bunu yapan kodu ekle
+
+Fotoğraf promptları:
+Tasarlanacak karakter, Silo dizisinden ilham alınarak yaratılacak bir bilim kurgu dizisi için merkezi bir karakter olacak. Bu karakter, yeraltı sığınağında yaşayan ve sığınağın gizemlerini keşfetmeye çalışan bir bilim insanı veya teknisyen olabilir. Karakter, sığınağın içindeki teknolojiye hakim ve sığınağın işleyişini anlamaya çalışan biri olarak tasarlanmalıdır. Görsel olarak, karakterin bilim kurgu unsurlarıyla uyumlu modern bir kıyafet giymesini ve belki de sığınağın içindeki teknolojik ekipmanlarla etkileşim halinde olmasını istiyorum. Ayrıca, karakterin yüz ifadesi ve duruşu, meraklı, kararlı veya belki de gizemli bir hava yansıtabilir. Arka planda, yeraltı sığınağının atmosferi ve teknolojik unsurlarıyla uyumlu bir ortam olmalıdır. Karakterin genel olarak bilim kurgu dünyasına uygun, etkileyici ve ilgi çekici bir görünüme sahip olması gerekiyor.
+
+1.	 Evelyn Frost - Scientist: Dr. Evelyn Frost typically wears a white lab coat in the laboratory. Underneath the coat, she may wear a jumpsuit or attire in a modern sci-fi style. She wears glasses and her hair is neatly tied back. Her expression is often focused on intense thought and scientific exploration.
+2.	Captain Maya Stark - Space Explorer: Captain Maya Stark usually dons an astronaut suit during space explorations. The space suit features modern design elements and is equipped with necessary tools for space travel. Maya's helmet is sleek and reflective, concealing her facial features while providing necessary protection in space. Her posture exudes confidence and readiness for adventure.
+3.	Dr. Emily Cole - Medical Specialist: Dr. Emily Cole wears a white lab coat over her medical scrubs while attending to her duties in the shelter's medical facilities. Her scrubs are fitted with advanced medical equipment, reflecting the shelter's technological advancements in healthcare. She maintains a calm and reassuring demeanor, projecting professionalism and empathy.
+4.	Senior Engineer Lucas Shaw - Technology Expert: Senior Engineer Lucas Shaw is often seen in the technical areas of the shelter wearing a utility jumpsuit or attire suitable for engineering work. His attire is practical and functional, with pockets and compartments for tools and gadgets. Lucas's posture suggests competence and focus as he troubleshoots and maintains the shelter's technological systems.
+5.	Security Chief Samantha Black - Defense Specialist: Security Chief Samantha Black wears a uniform equipped with protective gear and security accessories while overseeing the safety of the shelter. Her uniform is durable and designed for mobility, allowing her to respond swiftly to security threats. Samantha's demeanor exudes authority and vigilance, instilling confidence in the shelter's security measures.
