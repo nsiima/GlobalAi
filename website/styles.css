@@ -1,0 +1,99 @@
+/* styles.css */
+
+/* Body ve Genel Stiller */
+/* Hakkımda Stilleri */
+#hakkimda {
+    padding: 20px;
+    background-color: #fff; /* Beyaz arka plan */
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Hafif gölgelendirme */
+    margin-bottom: 20px;
+}
+
+#hakkimda h2 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#hakkimda p {
+    font-size: 1.2em;
+    color: #555;
+    line-height: 1.6;
+    text-align: justify; /* Metni yasla */
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+header, footer {
+    background-color: #f5f5dc; /* Açık krem rengi */
+    color: #333; /* Yazı rengi */
+    padding: 20px;
+    text-align: center;
+    font-size: 24px; /* Yazı büyüklüğü */
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px;
+}
+
+nav a:hover {
+    background-color: #555;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+article {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+/* Fotoğraf boyutları */
+article img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px; /* Fotoğraflar arası boşluk */
+}
+
+/* Başlık stilini ayarla */
+h1, h2, h3 {
+    font-size: 2em; /* Başlık boyutunu büyüt */
+    font-weight: bold; /* Kalın yazı stilini kullan */
+    color: #333; /* Başlık rengini belirle */
+    text-align: center; /* Başlıkları ortala */
+}
+
+/* Footer stilini ayarla */
+footer p {
+    font-size: 1.5em; /* Metin boyutunu büyüt */
+    text-align: center; /* Metni ortala */
+}

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio ve Galeri</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        /* styles.css içeriği buraya kopyalanabilir */
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Portfolio ve Galeri</h1>
+    </header>
+
+    <!-- Hakkımda Bölümü -->
+    <section id="hakkimda">
+        <h2>Hakkımda</h2>
+        <p>Bu bir GlobalAI projesidir. Aşağıda bilim kurgu dünyasına ait bir diziden yapay zekayla oluşturulmuş görseller bulunmaktadır.</p>
+    </section>
+    <!-- Hakkımda Bölümü Sonu -->
+
+    <nav>
+        <ul>
+            <li><a href="#portfolio">Portfolio</a></li>
+            <li><a href="#galeri">Galeri</a></li>
+            <li><a href="#fotograflar">Fotoğraflar</a></li>
+            <li><a href="#hakkimda">Hakkımda</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="portfolio">
+            <h2>Portfolio</h2>
+            <article>
+                <!-- Portfolio içeriği buraya gelecek -->
+            </article>
+        </section>
+
+        <section id="galeri">
+            <h2>Galeri</h2>
+            <article>
+                <div class="img-container" onclick="showText()">
+                    <img src="create-a-grid-view-gallery-composed-of-many-scienc-upscaled.jpg" alt="Güneşin batışı ve deniz manzarası">
+                    <div class="overlay" id="overlay">
+                        <p id="overlay-text"></p>
+                    </div>
+                </div>
+            </article>
+        </section>
+
+        <section id="fotograflar">
+            <h2>Fotoğraflar</h2>
+            <article>
+                <img src="foto3.png" alt="Güneşin batışı ve deniz manzarası">
+                <img src="foto4.png" alt="Güneşin batışı ve deniz manzarası">
+                <img src="foto5.png" alt="Güneşin batışı ve deniz manzarası">
+                <img src="foto6.png" alt="Güneşin batışı ve deniz manzarası">
+                <img src="foto2.png" alt="Güneşin batışı ve deniz manzarası">
+                <img src="foto1.jpg" alt="Güneşin batışı ve deniz manzarası">
+            </article>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Portfolio ve Galeri</p>
+    </footer>
+
+    <script>
+        
